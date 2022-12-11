@@ -9,12 +9,13 @@ Olá, tudo bem? Estou procurando uma empresa para desenvolver um app de gestão 
 
 ### Installing
 In project folder
-* cd api
-* npm i
-* cd ..
-* cd client
-* npm i
-
+```
+cd api
+npm i
+cd ..
+cd client
+npm i
+```
 ### Executing program
 
 * Execute the following command in both folders (api/client)
