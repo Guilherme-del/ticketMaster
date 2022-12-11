@@ -4,7 +4,12 @@ Olá, tudo bem? Estou procurando uma empresa para desenvolver um app de gestão 
 ## Getting Started
 
 ### Dependencies
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+* Nodejs
+* Reactjs
+* Bootstrap
+* express
+* mongoose
+
 
 
 ### Installing
