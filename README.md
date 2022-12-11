@@ -4,17 +4,23 @@ Olá, tudo bem? Estou procurando uma empresa para desenvolver um app de gestão 
 ## Getting Started
 
 ### Dependencies
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+* Nodejs
+* Reactjs
+* Bootstrap
+* express
+* mongoose
+
 
 
 ### Installing
 In project folder
-* cd api
-* npm i
-* cd ..
-* cd client
-* npm i
-
+```
+cd api
+npm i
+cd ..
+cd client
+npm i
+```
 ### Executing program
 
 * Execute the following command in both folders (api/client)
