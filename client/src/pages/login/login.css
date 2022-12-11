@@ -1,0 +1,54 @@
+.login {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.lContainer {
+  border-radius: 5%;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-width: 5px;
+  padding: 10% 5%;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  
+}
+
+.logo{
+  margin-bottom: 20%;
+  margin: auto;
+  display: block;
+}
+
+.lslogan{
+  height: 30px;
+  padding: 10px;
+}
+
+.lslogan p{
+  font-family: 'georgia';
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+.lInput{
+  height: 30px;
+  padding: 10px;
+}
+
+.lButton {
+  border: none;
+  padding: 10px 20px;
+  background-color: #0071c2;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.lButton:disabled{
+  background-color: #0071c28c;
+  cursor: not-allowed;
+}
